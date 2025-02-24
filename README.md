@@ -202,10 +202,4 @@ project-folder/
 
 ---
 
-## contact
-
-for any questions or issues, please contact [your-email@example.com](sutarimran47@example.com).
-
----
-
 happy coding! 🚀
