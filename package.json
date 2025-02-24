@@ -1,0 +1,41 @@
+{
+  "name": "neobuildassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imran2909/neobuildAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imran2909/neobuildAssignment/issues"
+  },
+  "homepage": "https://github.com/Imran2909/neobuildAssignment#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "@google/generative-ai": "^0.21.0",
+    "async": "^3.2.6",
+    "axios": "^1.7.9",
+    "bcrypt": "^5.1.1",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "googleapis": "^144.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.13.1",
+    "mongoose": "^8.10.1",
+    "nodemon": "^3.1.9",
+    "pdf-parse": "^1.1.1",
+    "pdf-text": "^0.4.0",
+    "pdf3json": "^0.2.0",
+    "underscore": "^1.13.7",
+    "xmldom": "^0.6.0"
+  }
+}
