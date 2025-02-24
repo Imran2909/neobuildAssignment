@@ -199,17 +199,12 @@ project-folder/
    - check the `mongo_url` in the `.env` file.
    - ensure your mongodb instance is running.
 
----
-
-## license
-
-this project is licensed under the mit license. see the [license file](license) for details.
 
 ---
 
 ## contact
 
-for any questions or issues, please contact [your-email@example.com](mailto:your-email@example.com).
+for any questions or issues, please contact [your-email@example.com](sutarimran47@example.com).
 
 ---
 
